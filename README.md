@@ -13,7 +13,8 @@
 
 
 # GEREKSİNİMLER	DAĞILIMI				
-[GEREKSİNİM ANALİZİ](https://github.com/rojdaayldz/gereksinim-analizi/commit/0c4b245245c39f75c7e32ff3108e57479588cea7856)
+[GEREKSİNİM ANALİZİ](https://github.com/rojdaayldz/gereksinim-analizi/tree/main)
+
 
 
 
