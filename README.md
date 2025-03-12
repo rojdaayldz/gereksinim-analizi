@@ -1,4 +1,4 @@
-	GEREKSİNİMLER			
+# GEREKSİNİMLER		
 1-Kullanıcı yönetimi	netimi(kullanıcı kayıt,giriş,çıkış)		
 
 2-Arama  ve keşif4	keşif(önerilen içerikler ve popüler yazılar)	
