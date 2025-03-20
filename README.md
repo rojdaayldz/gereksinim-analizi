@@ -1,7 +1,11 @@
 # GEREKSİNİMLER		
-1-Kullanıcı yönetimi(kullanıcı kayıt,giriş,çıkış)		
+1-Kullanıcı kayıt
 
-2-Arama  ve keşif(önerilen içerikler ve popüler yazılar)	
+2-Kullanıcı giriş
+
+3-Kullanıcı çıkış
+
+4-Arama  ve keşif(önerilen içerikler ve popüler yazılar)	
 
 3-Medya yönetimi(resim,video yükleme)	
 
