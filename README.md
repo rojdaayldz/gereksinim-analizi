@@ -7,13 +7,13 @@
 
 4-Arama  ve keşif(önerilen içerikler ve popüler yazılar)	
 
-3-Medya yönetimi(resim,video yükleme)	
+5-Medya yönetimi(resim,video yükleme)	
 
-4-Post atma		
+6-Post atma		
 
-5-Post silme
+7-Post silme
 
-6-Post güncelleme				
+8-Post güncelleme				
 
 
 # GEREKSİNİMLER	DAĞILIMI				
