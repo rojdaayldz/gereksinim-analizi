@@ -5,13 +5,15 @@
 
 3-Kullanıcı çıkış
 
-2-Arama  ve keşif (önerilen içerikler ve popüler yazılar)
+4-Arama  ve keşif (önerilen içerikler ve popüler yazılar)
 
-3-Medya yönetimi (resim,video yükleme)		
+5-Medya yönetimi (resim,video yükleme)		
 
-4-Post atma	
+6-Post atma	
 
-5-Post silme				
+7-Post silme
+
+8-Post güncelleme
 
 
 
